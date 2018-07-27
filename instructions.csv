@@ -1,0 +1,4 @@
+http://www.amazon.com
+click,,id,nav-link-accountList
+sendKeys,horacio.delgado23@gmail.com,name,email
+click,,id,continue
